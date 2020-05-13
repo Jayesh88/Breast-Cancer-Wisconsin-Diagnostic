@@ -2,7 +2,7 @@
 
 # This dataset is solved in Python and R
 
-We conducted an analysis using the to predict whether the cancer is benign or malignant.
+We conducted an analysis using the to predict whether the cancer is benign or malignant. Dataset can be found at https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 Data set contains details about : i) ID number ii) Diagnosis (M = malignant, B = benign)
 
